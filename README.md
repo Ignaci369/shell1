@@ -1,4 +1,4 @@
-# Shellz
+https://#ignacio zuñiga_ Shellz.com
 A script for generating common revshells fast and easy. <br>
 Especially nice when in need of PowerShell and Python revshells, which can be a PITA getting correctly formatted.<br><br> 
 
